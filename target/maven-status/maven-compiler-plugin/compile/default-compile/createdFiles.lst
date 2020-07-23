@@ -1,0 +1,8 @@
+com\arisenbook\arisenbookapp\repository\UserRepository.class
+com\arisenbook\arisenbookapp\ArisenbookAppApplication.class
+com\arisenbook\arisenbookapp\model\UserModel.class
+com\arisenbook\arisenbookapp\repository\BookRepository.class
+com\arisenbook\arisenbookapp\model\Book.class
+com\arisenbook\arisenbookapp\controller\BookController.class
+com\arisenbook\arisenbookapp\controller\UserController.class
+com\arisenbook\arisenbookapp\exception\ResourceNotFoundException.class
